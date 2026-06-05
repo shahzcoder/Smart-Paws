@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "997168171934",
+    "project_id": "smart-paws-auth",
+    "storage_bucket": "smart-paws-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997168171934:android:34dfa17ff562bba3d2e48f",
+        "android_client_info": {
+          "package_name": "com.example.smartpaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997168171934-mr5g3igl9kvp6v3hhu39j0gv0b3cjl8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartpaw",
+            "certificate_hash": "aa337b2ed78451d126b61d1cebd407ea977cd971"
+          }
+        },
+        {
+          "client_id": "997168171934-ksadfoghf9vn262vheiffs7ctdgsopae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs32uD8H3EdNhTOBThHOrugluokGlrLwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997168171934-ksadfoghf9vn262vheiffs7ctdgsopae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997168171934-6k74pqdko2jip9p2n46cpqeibm2lmgah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartpaw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

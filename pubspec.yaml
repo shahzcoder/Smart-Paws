@@ -1,0 +1,46 @@
+name: smartpaw
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.6.0
+  image_picker: ^1.0.7
+  dotted_border: ^2.1.0
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^5.4.4
+  google_maps_flutter: ^2.5.3
+  geolocator: ^14.0.2
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.7
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.JPG"
+  min_sdk_android: 21 # Optional, but good practice
+
+
+flutter_native_splash:
+  color: "#F8F9FA" # This matches the slight off-white background of your image
+  image: "assets/splash.jpeg"
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: center
