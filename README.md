@@ -36,18 +36,16 @@ Smart Paws is an AI-powered pet care platform developed as a Final Year Project.
 
 ## Project Structure
 
-```text
-Smart-Paws/
+Smart-Paws-Flutter/
 │
-├── SmartPaw/          # Flutter Mobile Application
+├── SmartPaw/          # Flutter App Source Code
 │
-├── FastAPIs/
-│   ├── SymptomCheckerAPI/
-│   ├── BreedNutritionAPI/
-│   └── BehaviorAnalysisAPI/
+│   ├── lib/
+│   ├── assets/
+│   ├── pubspec.yaml
+│   └── main.dart
 │
 └── README.md
-```
 
 ## Key Achievements
 
