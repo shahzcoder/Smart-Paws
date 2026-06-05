@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCkx-uM8ba2YtU26OKOqjdu332UmSLJDu8',
+    apiKey: 'API Key',
     appId: '1:997168171934:ios:9de71659439280a6d2e48f',
     messagingSenderId: '997168171934',
     projectId: 'smart-paws-auth',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCBSx2dtVeNI0YHSo8LdAXsf1oJrmpoZwU',
+    apiKey: 'API Key',
     appId: '1:997168171934:web:942bb213a9e39332d2e48f',
     messagingSenderId: '997168171934',
     projectId: 'smart-paws-auth',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBs32uD8H3EdNhTOBThHOrugluokGlrLwE',
+    apiKey: 'API Key',
     appId: '1:997168171934:android:34dfa17ff562bba3d2e48f',
     messagingSenderId: '997168171934',
     projectId: 'smart-paws-auth',
