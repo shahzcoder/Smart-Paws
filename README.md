@@ -1,5 +1,12 @@
 # Smart Paws 🐾
 
+
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-3.x-yellow)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 Smart Paws is an AI-powered pet care platform developed as a Final Year Project. The application helps pet owners manage pet health records, receive AI-assisted health guidance, identify pet breeds, generate nutrition plans, analyze pet behavior, and locate nearby veterinary services.
 
 ## Features
