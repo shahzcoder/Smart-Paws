@@ -4,7 +4,7 @@ import 'package:geolocator/geolocator.dart';
 
 class PlacesService {
   // PASTE YOUR GOOGLE API KEY HERE
-  static const String apiKey = "AIzaSyAsuotiC9JPuX0n1EWEvUYJ-Qi8rMtBFZM"; 
+  static const String apiKey = "API Key"; 
 
   // 1. Get the user's current GPS location
   Future<Position> _determinePosition() async {
